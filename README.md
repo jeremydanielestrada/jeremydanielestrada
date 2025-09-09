@@ -8,29 +8,31 @@
 
 ## 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <br/>JavaScript
+</p>
 
-<div style="display:flex; gap:2;>
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
-    <b>JavaScript</b>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/><br/>
-    <b>Vue.js</b>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" width="40" height="40" alt="Vuetify"/><br/>
-    <b>Vuetify</b>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/><br/>
-    <b>Laravel</b>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" height="40" alt="Supabase"/><br/>
-    <b>Supabase</b>
-  </div>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
+  <br/>Vue.js
+</p>
+
+<p align="center">
+  <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" width="50" height="50" alt="Vuetify"/>
+  <br/>Vuetify
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/>
+  <br/>Laravel
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="50" height="50" alt="Supabase"/>
+  <br/>Supabase
+</p>
+
 
 
 ---
