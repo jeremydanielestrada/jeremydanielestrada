@@ -8,9 +8,8 @@
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
 
-<p align="center">
+<div style="display:flex; gap:2;>
   <div style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
     <b>JavaScript</b>
@@ -31,7 +30,7 @@
     <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" height="40" alt="Supabase"/><br/>
     <b>Supabase</b>
   </div>
-</p>
+</div>
 
 
 ---
