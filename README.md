@@ -32,7 +32,6 @@
 
 ## 📌 About Me
 - 🌍 Based in: Philippines  
-- 🔭 Currently learning: **SPA with Vue Router** & **APIs with Laravel**  
 - 💡 Interested in: **Fullstack Web Development**, **Real-time Apps**, **APIs**  
 - 🎯 Goal: To grow into a professional fullstack developer  
 
