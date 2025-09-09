@@ -8,32 +8,31 @@
 
 ## 🛠 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
-      <b>JavaScript</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/><br/>
-      <b>Vue.js</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" width="40" height="40" alt="Vuetify"/><br/>
-      <b>Vuetify</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/><br/>
-      <b>Laravel</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" height="40" alt="Supabase"/><br/>
-      <b>Supabase</b>
-    </td>
-  </tr>
-</table>
+## 🛠 Tech Stack
+
+<p align="center">
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
+    <b>JavaScript</b>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/><br/>
+    <b>Vue.js</b>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" width="40" height="40" alt="Vuetify"/><br/>
+    <b>Vuetify</b>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/><br/>
+    <b>Laravel</b>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" height="40" alt="Supabase"/><br/>
+    <b>Supabase</b>
+  </div>
+</p>
+
 
 ---
 
