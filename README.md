@@ -6,31 +6,18 @@
 
 ---
 
+
+
 ## 🛠 Tech Stack
 
-
 <p align="center">
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br/>
-    JavaScript
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/><br/>
-    Vue.js
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" width="50" height="50" alt="Vuetify"/><br/>
-    Vuetify
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/><br/>
-    Laravel
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="50" height="50" alt="Supabase"/><br/>
-    Supabase
-  </span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" style="margin: 0 10px;"/>
+  <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" width="50" height="50" alt="Vuetify" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel" style="margin: 0 10px;"/>
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="50" height="50" alt="Supabase" style="margin: 0 10px;"/>
 </p>
+
 
 
 ---
