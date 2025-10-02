@@ -16,6 +16,7 @@
   <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" width="50" height="50" alt="Vuetify" style="margin: 0 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel" style="margin: 0 10px;"/>
   <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="50" height="50" alt="Supabase" style="margin: 0 10px;"/>
+  <img src="[https://avatars.githubusercontent.com/u/54469796?s=200&v=4](https://pinia.vuejs.org/logo.svg)" width="50" height="50" alt="Pinia Store" style="margin: 0 10px;"/>
 </p>
 
 
