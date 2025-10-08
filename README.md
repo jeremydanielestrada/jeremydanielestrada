@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeremy
 
-🌱 **Aspiring Junior Web Developer**  
+🌱 **Aspiring Junior Developer**  
 💻 Passionate about building modern, responsive web apps  
 🚀 Exploring fullstack development
 
@@ -32,7 +32,7 @@
 
 ## 📌 About Me
 - 🌍 Based in: Philippines  
-- 💡 Interested in: **Fullstack Web Development**, **Real-time Apps**, **APIs**  
+- 💡 Interested in: **Fullstack Development**, **Real-time Apps**, **APIs**  
 - 🎯 Goal: To grow into a professional fullstack developer  
 
 
