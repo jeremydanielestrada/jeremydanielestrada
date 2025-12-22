@@ -35,5 +35,4 @@
 ## 📌 About Me
 - 🌍 Based in: Philippines  
 - 💡 Interested in: **Fullstack Development**, **Real-time Apps**, **APIs**  
-- 🎯 Goal: To grow into a professional fullstack developerCurrent Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-12-22 01:40:39
-Current User's Login: jeremydanielestrada
+- 🎯 Goal: To grow into a professional fullstack developer
